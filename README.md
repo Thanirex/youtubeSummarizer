@@ -73,7 +73,5 @@ This project successfully blends text summarization with AI-driven conversationa
 ---
 
 **Author:** R Thaneesh Varma  
-**Student Roll No:** HU21CSEN0300408  
 **Institution:** GITAM School of Technology, GITAM (Deemed to be University), Hyderabad  
 **Date:** December 2023  
-**Guidance:** Dr. J.S.V.R.S.Sastry
